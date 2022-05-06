@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid;
+    }
+    table{
+        width: 100%;
+        
+    }
+    td{
+        height: 40px;
+        color: beige;
+    }
+    th{
+        height: 80px;
+        font-size: 20px;
+    }
